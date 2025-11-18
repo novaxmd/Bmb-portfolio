@@ -7,7 +7,7 @@ export async function fetchMediaInfo(url: string) {
   const options = {
     method: 'POST',
     headers: {
-      'x-rapidapi-key': API_KEY
+      'x-rapidapi-key': API_KEY,  // ✅ koma imeongezwa hapa
       'x-rapidapi-host': API_HOST,
       'Content-Type': 'application/json',
       'Accept': 'application/json'
