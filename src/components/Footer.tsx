@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col items-center justify-center space-y-4">
           <h3 className="text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">
-            Created with ❤️ by Rafly Azwar
+            Created with ❤️ by Bmb Tech
           </h3>
           <p className="text-sm text-gray-500 dark:text-gray-400">
             © {new Date().getFullYear()} Social Media Downloader. All rights reserved.
